@@ -1,6 +1,6 @@
 # Bias and Exclusivity in the Digital Humanities
 
-![Word Cloud on Bias and Ethics](bias cloud.jpeg)
+![Word Cloud on Bias and Ethics](bias_cloud.jpeg)
 
 
 
